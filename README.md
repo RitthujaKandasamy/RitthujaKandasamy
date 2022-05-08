@@ -1,6 +1,6 @@
-<img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?usernameRitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Abubakr1710.Abubakr1710" alt="Profile Visitor"/>
+<img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?usernameRitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Ritthujakandasamy.Ritthujakandasamy" alt="Profile Visitor"/>
 
-  <img align="left" alt="GIF" src="https://github.com/Rithhujakandasamy/Rithhujakandasamy/blob/main/code.gif?raw=true" width="300" height="200" />
+  
 
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Rithhujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rithhujakandasamy?cardType=level-alternate&theme=github-dark" />  </a>
 
