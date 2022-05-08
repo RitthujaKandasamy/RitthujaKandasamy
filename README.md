@@ -1,8 +1,8 @@
-<img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?usernameRitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Ritthujakandasamy.Ritthujakandasamy" alt="Profile Visitor"/>
+<img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=RitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Ritthujakandasamy.Ritthujakandasamy" alt="Profile Visitor"/>
 
   
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=github-dark">    <img  alt="Rithhujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Rithhujakandasamy?cardType=level-alternate&theme=github-dark" />  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nord">    <img  alt="Ritthujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ritthujakandasamy?cardType=level-alternate&theme=nord" />  </a>
 
 Hi, I'm Ritthu 👋
 
