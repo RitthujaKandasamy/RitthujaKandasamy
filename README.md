@@ -11,11 +11,11 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
 - 🎓 **Education:** I am studying in EPICODE Global.
 
 
-- 😅 **Fun fact:** I like travel around the world. I visited 5 countries and 6 cities
+- 😅 **Fun fact:** I like travel around the world.
 
 <div>
    <p align="center">
-      <a href="https://linkedin.com/in/Rithhujakandasamy" target="_blank">
+      <a href="https://www.linkedin.com/in/ritthuja-kandasamy/" target="_blank">
          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
       </a>
       <a href="ritthujaappa@gmail.com" target="_blank">
