@@ -6,7 +6,7 @@
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
+I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
 - 🎓 **Education:** I am studying in EPICODE Global.
 
