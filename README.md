@@ -18,9 +18,8 @@ I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about M
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mechani/matplot.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 
 
 <div>
@@ -31,8 +30,6 @@ I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about M
       <a href="https://ritthujaappa@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
-     <a href="https://Ritthuja">
-        <img src="https://img.shields.io/badge/discord.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
+     
    </p>
 </div>
