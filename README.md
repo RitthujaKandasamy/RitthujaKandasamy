@@ -3,7 +3,7 @@
   
 
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nord">    <img  alt="Ritthujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ritthujakandasamy?cardType=level-alternate&theme=nord" />  </a>
-
+![Ritthujakandasamy's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RitthujaKandasamy)
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
@@ -39,7 +39,7 @@ and Data Science.
      
    </p>
 </div>
-![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
+
 
 
 
