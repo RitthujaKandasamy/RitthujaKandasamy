@@ -42,32 +42,19 @@ and Data Science.
 <details>
 <summary>:tv: List Favorites Anime</summary>
   
-<!-- favorites_anime starts -->
-* [Ze Tian Ji](https://anilist.co/anime/101409)
-* [Ze Tian Ji 2](https://anilist.co/anime/102165)
-* [Ze Tian Ji 3](https://anilist.co/anime/102166)
-* [Ze Tian Ji 4](https://anilist.co/anime/108986)
-* [Ze Tian Ji 5](https://anilist.co/anime/115839)
-* [Toaru Majutsu no Index](https://anilist.co/anime/4654)
-* [Toaru Majutsu no Index II](https://anilist.co/anime/8937)
-* [Toaru Majutsu no Index III](https://anilist.co/anime/100185)
-* [Toaru Kagaku no Railgun](https://anilist.co/anime/6213)
-* [Toaru Kagaku no Railgun S](https://anilist.co/anime/16049)
-* [Toaru Kagaku no Railgun T](https://anilist.co/anime/104462)
-* [Ling Jian Zun](https://anilist.co/anime/107882)
-* [Ling Jian Zun 2](https://anilist.co/anime/116137)
-* [Ling Jian Zun 3](https://anilist.co/anime/116138)
-* [Ling Jian Zun 4](https://anilist.co/anime/120272)
-* [Doupo Cangqiong](https://anilist.co/anime/102464)
-* [Doupo Cangqiong 2](https://anilist.co/anime/102463)
-* [Doupo Cangqiong 3](https://anilist.co/anime/104922)
-* [World Trigger](https://anilist.co/anime/20729)
-* [World Trigger 2](https://anilist.co/anime/114087)
-* [Mahouka Koukou no Rettousei](https://anilist.co/anime/20458)
-* [Mahouka Koukou no Rettousei: Raihousha-hen](https://anilist.co/anime/112300)
-* [Tong Ling Fei](https://anilist.co/anime/99935)
-* [Shu Ling Ji](https://anilist.co/anime/119945)
-* [Quanzhi Fashi](https://anilist.co/anime/99200)
-<!-- favorites_anime ends -->
+<details>
+<summary>:bar_chart: Recent Anilist Activity</summary>
+  
+<!-- anilist_activity starts -->
+* [watched episode 1 - 22](https://anilist.co/activity/393324002) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
+* [watched episode 208](https://anilist.co/activity/393253769) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
+* [watched episode 93](https://anilist.co/activity/393251474) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
+* [watched episode 106](https://anilist.co/activity/393249172) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
+* [watched episode 7](https://anilist.co/activity/393151952) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
+* [completed None](https://anilist.co/activity/392801807) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
+* [watched episode 231](https://anilist.co/activity/392722887) of [Wushen Zhuzai](https://anilist.co/anime/117168)
+* [watched episode 4](https://anilist.co/activity/392709664) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
+* [watched episode 6](https://anilist.co/activity/392638417) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
+<!-- anilist_activity ends -->
 
 </details>
