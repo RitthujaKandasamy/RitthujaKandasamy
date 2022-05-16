@@ -5,14 +5,14 @@
 <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nord">    <img  alt="Ritthujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ritthujakandasamy?cardType=level-alternate&theme=nord" />  </a>
 
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about Machine Learning and Data Science.
 
 - 🎓 **Education:** I am studying in EPICODE Global.
 
 
 - 😅 **Fun fact:** I like travel around the world.
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+
 **Languages and Tools:**  
 
 
