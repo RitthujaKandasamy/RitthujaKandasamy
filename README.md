@@ -22,7 +22,7 @@ I'm a **Data Scientist and AI Developer** and very passionate about Machine Lear
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
      <a href="https://Ritthuja">
-        <img src="https://img.shields.io/badge/discord.gg/XTW52Kt?&style=for-the-badge&logo=gmail&logoColor=white"/>
+        <img src="https://img.shields.io/badge/discord.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
    </p>
 </div>
