@@ -39,22 +39,7 @@ and Data Science.
      
    </p>
 </div>
-<details>
-<summary>:tv: List Favorites Anime</summary>
-  
-<details>
-<summary>:bar_chart: Recent Anilist Activity</summary>
-  
-<!-- anilist_activity starts -->
-* [watched episode 1 - 22](https://anilist.co/activity/393324002) of [Xue Ying Lingzhu 3](https://anilist.co/anime/137739)
-* [watched episode 208](https://anilist.co/activity/393253769) of [Dubu Xiaoyao](https://anilist.co/anime/119927)
-* [watched episode 93](https://anilist.co/activity/393251474) of [Ni Tian Zhizun](https://anilist.co/anime/136862)
-* [watched episode 106](https://anilist.co/activity/393249172) of [Wu Shang Shen Di 2](https://anilist.co/anime/134107)
-* [watched episode 7](https://anilist.co/activity/393151952) of [Otomege Sekai wa Mob ni Kibishii Sekai desu](https://anilist.co/anime/142074)
-* [completed None](https://anilist.co/activity/392801807) of [Wu Ying Sanqian Dao](https://anilist.co/anime/143508)
-* [watched episode 231](https://anilist.co/activity/392722887) of [Wushen Zhuzai](https://anilist.co/anime/117168)
-* [watched episode 4](https://anilist.co/activity/392709664) of [Wu Dong Qiankun 3](https://anilist.co/anime/122670)
-* [watched episode 6](https://anilist.co/activity/392638417) of [Mahoutsukai Reimeiki](https://anilist.co/anime/133175)
-<!-- anilist_activity ends -->
+![Moepoi's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=moepoi)
 
-</details>
+
+
