@@ -15,7 +15,8 @@ and Data Science.
 - 🎓 **Education:** I am studying in EPICODE Global.
 
 
-- 😅 **Fun fact:** I like travel around the world.
+- 😅 **Fun fact:** Big Fan of the :zap: emoji
+
 
 
 **Languages and Tools:**  
