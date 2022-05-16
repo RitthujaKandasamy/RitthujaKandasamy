@@ -1,9 +1,11 @@
-<img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=RitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Ritthujakandasamy.Ritthujakandasamy" alt="Profile Visitor"/>
+<!-- <img src="https://img.shields.io/github/followers/RitthujaKandasamy?label=Follow%20Me&logo=github" alt="GitHub Followers" /> <img src="https://komarev.com/ghpvc/?username=RitthujaKandasamy&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Viewer" /> <img src="https://visitor-badge.glitch.me/badge?page_id=Ritthujakandasamy.Ritthujakandasamy" alt="Profile Visitor"/>
 
   
 
-<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nord">    <img  alt="Ritthujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ritthujakandasamy?cardType=level-alternate&theme=nord" />  </a>
+<a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=nord">    <img  alt="Ritthujakandasamy's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Ritthujakandasamy?cardType=level-alternate&theme=nord" />  </a> -->
+
 ![Ritthujakandasamy's GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=RitthujaKandasamy)
+
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
