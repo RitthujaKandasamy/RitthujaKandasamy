@@ -15,6 +15,7 @@ and Data Science.
 
 - 😅 **Fun fact:** I like travel around the world.
 
+
 **Languages and Tools:**  
 
 
@@ -32,6 +33,9 @@ and Data Science.
       <a href="https://ritthujaappa@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
+     <a href="https://www.kaggle.com/ritthuja" target="blank">
+       <img src="https://img.shields.io/badge/KAGGLE-20BEFF?&style=for-the-badge&logo=kaggle&logoColor=white" alt="vidyabhandary"  />
+     </a> 
      
    </p>
 </div>
