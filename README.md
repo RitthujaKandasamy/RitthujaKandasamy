@@ -10,7 +10,7 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about Machine Learning 
+I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about Deep Learning 
 and Data Science.
 
 - 🎓 **Education:** I am studying in EPICODE Global.
