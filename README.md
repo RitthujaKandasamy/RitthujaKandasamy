@@ -10,8 +10,8 @@
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
-I'm *Ritthuja* a **Data Scientist and AI Developer** and very passionate about Deep Learning 
-and Data Science.
+I'm *Ritthuja*, a **Data Scientist and AI Developer**. I am very passionate about Deep Learning 
+and Data Science. There are three things I like - Coding, Cooking, and Socializing. 
 
 - 🎓 **Education:** I am studying in EPICODE Global.
 
