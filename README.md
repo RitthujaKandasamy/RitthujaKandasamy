@@ -13,7 +13,7 @@
 I'm *Ritthuja*, a **Data Scientist and AI Developer**. I am very passionate about Deep Learning 
 and Data Science. There are three things I like - Coding, Cooking, and Socializing. 
 
-- 🎓 **Education:** I am studying in EPICODE Global.
+- 🎓 **Education:** Studied in EPICODE Global.
 
 
 - 😅 **Fun fact:** Big Fan of the :zap: emoji
