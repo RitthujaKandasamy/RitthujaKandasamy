@@ -37,7 +37,7 @@ and Data Science. There are three things I like - Coding, Cooking, and Socializi
       <a href="https://ritthujaappa@gmail.com" target="_blank">
          <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"/>
       </a>
-     <a href="https://www.kaggle.com/ritthuja" target="blank">
+     <a href="https://ritthujakandasamy.github.io/" target="blank">
        <img src="https://img.shields.io/badge/PORTFOLIO-20BEFF?&style=for-the-badge&logo=portfolio&logoColor=white"/>
      </a> 
      
